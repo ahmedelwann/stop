@@ -1,0 +1,13 @@
+{
+  "name": "medhall-decommissioned",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MedHall Decommissioned 404 Repository",
+  "scripts": {
+    "build": "node build.js",
+    "pages:build": "node build.js",
+    "prebuild": "node build.js",
+    "postbuild": "node build.js",
+    "start": "node build.js"
+  }
+}
